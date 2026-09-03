@@ -1,0 +1,15 @@
+{
+  "code": 1,
+  "message": "OK",
+  "result": {
+    "0x022c90ed10c2172bb9b2d54838bbe5d0827c4af1": {
+      "buy_tax": "",
+      "cannot_buy": "0",
+      "is_in_dex": "0",
+      "owner_address": "",
+      "sell_tax": "",
+      "token_name": "UNICORN",
+      "token_symbol": "UNICORN"
+    }
+  }
+}

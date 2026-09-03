@@ -1,0 +1,15 @@
+{
+  "code": 1,
+  "message": "OK",
+  "result": {
+    "0x8f25f1db5a985d4966a5af62a5a57a2433190b01": {
+      "buy_tax": "",
+      "cannot_buy": "0",
+      "is_in_dex": "0",
+      "owner_address": "",
+      "sell_tax": "",
+      "token_name": "Mac Tonight",
+      "token_symbol": "Moonman"
+    }
+  }
+}
